@@ -6,6 +6,14 @@ For detailed documentation visit [NFS Documentation](https://santhosh.gitbook.io
 - The NFS architecture consists of three major components: Clients, Naming Server, and Storage Servers. For a detailed overview of the components, visit [NFS Components](https://santhosh.gitbook.io/nfs/overview/components).
 
 ## Installation
+- Clone the Repo: 
+```bash
+git clone https://github.com/Chanukya578/Network-File-System.git
+```
+- Navigate to the directory:
+```bash
+cd Network-File-System
+```
 - Compile files
   ```bash
   make all
